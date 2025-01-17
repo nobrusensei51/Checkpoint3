@@ -1,13 +1,14 @@
+***
 ### Partie 1 : Gestion des utilisateurs
 Q.2.1.1   
 
 `useradd wilderB`
 
 Q.2.1.2 Quelles préconisations proposes-tu concernant ce compte ?
-
+***
 ### Partie 2 : Configuration de SSH  
 
-Q.2.2.1  
+[Q.2.2.1]  
 
 ![Q 2 2 1](https://github.com/user-attachments/assets/913a1cd2-ac3e-4e81-b86c-03c2afa75533)
 
@@ -21,7 +22,8 @@ Q.2.2.3
 
 ![Q 2 2 3](https://github.com/user-attachments/assets/a85a5644-503c-46b2-9131-71167a2c3143)
 
-### Partie 3 : Analyse du stockage  
+***
+### Partie 3 : Analyse du stockage
 Q.2.3.1  
 ![Q 2 3 1 ](https://github.com/user-attachments/assets/7f62acd7-68dd-4e45-8e7a-99fd921c6e81)
 
@@ -39,6 +41,7 @@ Q.2.3.4
 Q.2.3.5  
 ![Q 2 3 5](https://github.com/user-attachments/assets/5f05cb2e-3f07-46bd-9ae4-9083cf6aef1f)
 
+***
 ### Partie 4 : Sauvegardes
 
 Q.2.4.1  
@@ -48,9 +51,10 @@ Q.2.4.1
   C'est l'endroit où sont stockés les sauvegardes
 - bareos-fd
   Il est en charge de recupérer les informations à sauvegarder et il les envoie au bareos-sd
-  
+
+ *** 
 ### Partie 5 : Filtrage et analyse réseau  
-Q.2.5.1 Quelles sont actuellement les règles appliquées sur Netfilter ?
+Q.2.5.1 
 ![Q 2 5 1](https://github.com/user-attachments/assets/05e882b3-5262-4fa3-8c6b-5accab6ca19e)
 
 Q.2.5.2   
@@ -67,6 +71,7 @@ Q.2.5.4 Sur nftables, ajouter les règles nécessaires pour autoriser bareos à 
 
 Rappel : Bareos utilise les ports TCP 9101 à 9103 pour la communication entre ses différents composants.
 
+***
 ### Partie 6 : Analyse de logs
 Q.2.6.1 Lister les 10 derniers échecs de connexion ayant eu lieu sur le serveur en indiquant pour chacun :
 
