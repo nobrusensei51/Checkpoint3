@@ -1,5 +1,6 @@
 ### Partie 1 : Gestion des utilisateurs
 Q.2.1.1   
+
 `useradd wilderB`
 
 Q.2.1.2 Quelles préconisations proposes-tu concernant ce compte ?
@@ -7,12 +8,17 @@ Q.2.1.2 Quelles préconisations proposes-tu concernant ce compte ?
 ### Partie 2 : Configuration de SSH  
 
 Q.2.2.1  
+
 ![Q 2 2 1](https://github.com/user-attachments/assets/913a1cd2-ac3e-4e81-b86c-03c2afa75533)
 
+
 Q.2.2.2  
+
 ![Q 2 2 2](https://github.com/user-attachments/assets/64c44088-1542-438e-ba2f-ca2b0b4f68b5)
 
+
 Q.2.2.3  
+
 ![Q 2 2 3](https://github.com/user-attachments/assets/a85a5644-503c-46b2-9131-71167a2c3143)
 
 ### Partie 3 : Analyse du stockage  
@@ -37,7 +43,7 @@ Q.2.3.5
 
 Q.2.4.1  
 - bareos-dir
-  Son role est de gérer l'ensemble des composants . Il est responsable de la planification , du controle et du lancement des taches .
+  Son role est de gérer l'ensemble des composants . Il est responsable de la planification , du controle et du lancement des taches.
 - bareos-sd
   C'est l'endroit où sont stockés les sauvegardes
 - bareos-fd
