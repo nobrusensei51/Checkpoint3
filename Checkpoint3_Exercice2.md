@@ -54,7 +54,9 @@ Q.2.4.1
 
  *** 
 ### Partie 5 : Filtrage et analyse réseau  
-Q.2.5.1 
+
+Q.2.5.1  
+
 ![Q 2 5 1](https://github.com/user-attachments/assets/05e882b3-5262-4fa3-8c6b-5accab6ca19e)
 
 Q.2.5.2   
@@ -67,9 +69,8 @@ Les types de communications  autorisées sont
 Q.2.5.3 
   - Tout le reste
 
-Q.2.5.4 Sur nftables, ajouter les règles nécessaires pour autoriser bareos à communiquer avec les clients bareos potentiellement présents sur l'ensemble des machines du réseau local sur lequel se trouve le serveur.
+Q.2.5.4 
 
-Rappel : Bareos utilise les ports TCP 9101 à 9103 pour la communication entre ses différents composants.
 
 ***
 ### Partie 6 : Analyse de logs
